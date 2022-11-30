@@ -1,4 +1,4 @@
-package api.module.publics_ervice.animal;
+package api.module.publics_service.animal;
 
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;

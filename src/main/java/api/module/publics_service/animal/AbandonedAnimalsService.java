@@ -1,7 +1,6 @@
-package api.module.publics_ervice.animal;
+package api.module.publics_service.animal;
 
-import api.module.publics_ervice.API_Connector;
-import com.google.gson.JsonObject;
+import api.module.publics_service.API_Connector;
 import org.springframework.stereotype.Service;
 
 import java.net.HttpURLConnection;

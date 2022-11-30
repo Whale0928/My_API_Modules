@@ -1,4 +1,4 @@
-package api.module.publics_ervice;
+package api.module.publics_service;
 
 import com.google.gson.JsonObject;
 import org.json.JSONObject;
